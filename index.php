@@ -71,7 +71,7 @@
                                         <a href="#">HOME</a>
                                     </li>
                                     <li class="">
-                                        <a href="#">ABOUT US</a>
+                                        <a href="#about">ABOUT US</a>
                                     </li>
                                     <li class="">
                                         <a href="#">SERVICE TIPS </a>
@@ -137,15 +137,18 @@
 
 
     <!-- Categories Area Start -->
-    <section class="jobguru-categories-area section_70">
+    <section class="jobguru-categories-area section_70" id="about">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="site-heading">
+                    <div class="site-heading" style="width: 80% !important;">
                         <h2>ABOUT US SPE <span>SURVEY</span></h2>
                         <p>We are selected company to work for companies convenience and promote all services rendered
                             for the proper usage of the populace and create more security measure through the survey
                             evaluation exercise.
+                        </p>
+
+                        <p>
                             SPE® Survey is currently in contract with Companies to carry-out a survey in other to
                             evaluate all workers and services rendered at these listed companies etc ( Post Office ), (
                             Bank Mobile App / ATM Machine ), and ( FedEx Store ) respectively.. Applications for
@@ -154,13 +157,18 @@
                             assignment. There is no charge to become or take a survey and you do not need any
                             experience, After you sign up, you will have access to training materials via E-Mail, Mobile
                             Phone Text messaging, Fax or Regular Postal Mail.
+                        </p>
+
+
+                        <p>
                             Secret shopping as seen on ABC NEWS, NBC NEWS, L.A.TIMES. Stores, organizations such as Post
                             Office (USPS) & Walmart e.t.c. One among-st many others pay for Secret Shoppers to shop in
                             their establishments and report their experiences. On top of being paid for shopping you are
                             also allowed to keep purchases for free. SPE® Survey never charge fees to the shopper.
                             Training, tips for improvement, and shopping opportunities are provided free to registered
                             shoppers. We'll pre-arranged funds for a particular shop, a reimbursement for a purchase or
-                            a combination of both, The assignment will pay $400 Weekly per (2 Assignment Weekly)</p>
+                            a combination of both, The assignment will pay $400 Weekly per (2 Assignment Weekly)
+                        </p>
                     </div>
                 </div>
             </div>
@@ -177,18 +185,18 @@
                     <div class="single-about-box">
                         <div class="about-box-img">
                             <a href="#">
-                                <img src="assets/img/abt-1.jpeg" alt="about image" />
+                                <img src="assets/img/about-mission.jpg" alt="about image" />
                             </a>
                         </div>
                         <div class="about-box-text">
-                            <h5><strong style="color:black;">Automated Teller Machine ( ATM ) Survey Evaluation</strong>
+                            <h5><strong style="color:black;">Our Goal</strong>
                             </h5>
                             <br />
-                            <p>The goal of this survey is to evaluate the efficiency of the Automated teller machine
-                                (ATM) close to us, through the deposit of a certified payment check delivered via the
-                                Post Office (USPS). Confirmation deposit Printout receipt will confirm the active of the
-                                (ATM) Machine Evaluated. Ensure you confirm the active (ATM) Machine so as to eliminate
-                                the faulty ones.</p>
+                            <p>The goal of this survey is to evaluate the efficiency of the human resources of the Post
+                                Office (USPS), FedEx Store and Atm Machine network across the U.S given minimal
+                                supervision. So you’re to walk into a Post Office (USPS) and Walmart outlet carrying out
+                                your assignment as a normal customer would, not hinting at the fact that you’re a secret
+                                shopper/surveyor.</p>
                         </div>
                     </div>
                 </div>
@@ -196,20 +204,17 @@
                     <div class="single-about-box">
                         <div class="about-box-img">
                             <a href="#">
-                                <img src="assets/img/abt-2.jpeg" alt="about image" />
+                                <img src="assets/img/postoffice.jpg" alt="about image" />
                             </a>
                         </div>
                         <div class="about-box-text">
 
-                            <h5><strong style="color:black;">First Survey Evaluation on Post-Office ( USPS )</strong>
-                            </h5>
+                            <h5><strong style="color:black;">Assignment & Compensation</strong>
+                            </h5> <br />
                             <p>
 
-                                Post Office and Walmart outlet network across the U.S given minimal supervision. You’re
-                                to walk into a Post Office (USPS) and Walmart outlet in your area to carrying out your
-                                assignment as a normal customer would, not hinting at the fact that you’re a secret
-                                shopper/surveyor. Report back any mismanagement or customer-care attainment to make
-                                correction at any given period of time.
+                                For the sake of this particular assignment you’ll be paid the sum of $400 per 2
+                                Assignment you carried out at ATM Machine, Post Office (USPS) and FedEx Stores.
                             </p>
                         </div>
                     </div>
@@ -218,17 +223,18 @@
                     <div class="single-about-box">
                         <div class="about-box-img">
                             <a href="#">
-                                <img src="assets/img/abt-3.jpeg" alt="about image" />
+                                <img src="assets/img/about-mission.jpg" alt="about image" />
                             </a>
                         </div>
                         <div class="about-box-text">
 
-                            <h5><strong style="color:black;">Survey Evaluation On FedEx Store.</strong></h5> <br />
+                            <h5><strong style="color:black;">How it works</strong></h5> <br />
                             <p>
-                                FedEx Store outlet across the U.S given minimal supervision. You’re to walk into a FedEx
-                                Store in your area to carrying out your assignment as a normal customer would, not
-                                hinting at the fact that you’re a secret shopper/surveyor. Report back any mismanagement
-                                or customer-care attainment to make correction at any given period of time.​
+                                We will provide the Funds (Cashier's Check or Money Order) you’ll be using to carry out
+                                this assignment as you are not obliged to spend a penny out of your pocket. You get paid
+                                $400 per 2 Assignment you carry out and the minimum you can do is 2 assignment per week
+                                & maximum of 3-4 which will earn you double. It’s possible to take up to 2 assignment
+                                weekly if you have the time. And this survey goes on for at least 6 weeks.
                             </p>
                         </div>
                     </div>
@@ -411,19 +417,92 @@
     <!-- Job Tab Area End -->
 
 
+
+    <!-- About Area Start -->
+    <section class="jobguru-about-page section_70">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="site-heading">
+                        <h2><span>SURVEY EVALUATION TIPS</span></h2>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-12">
+                    <div class="single-about-box">
+                        <div class="about-box-img">
+                            <a href="#">
+                                <img src="assets/img/atm.jpg" style="object-fit: cover;" alt="about image" />
+                            </a>
+                        </div>
+                        <div class="about-box-text">
+                            <h5><strong style="color:black;">Automated Teller Machine ( ATM ) Survey Evaluation</strong>
+                            </h5>
+                            <br />
+                            <p>The goal of this survey is to evaluate the efficiency of the Automated teller machine
+                                (ATM) close to us, through the deposit of a certified payment check delivered via the
+                                Post Office (USPS). Confirmation deposit Printout receipt will confirm the active of the
+                                (ATM) Machine Evaluated. Ensure you confirm the active (ATM) Machine so as to eliminate
+                                the faulty ones.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="single-about-box">
+                        <div class="about-box-img">
+                            <a href="#">
+                                <img src="assets/img/postoffice.jpg" alt="about image" />
+                            </a>
+                        </div>
+                        <div class="about-box-text">
+
+                            <h5><strong style="color:black;">First Survey Evaluation on Post-Office ( USPS )</strong>
+                            </h5>
+                            <p>
+
+                                Post Office and Walmart outlet network across the U.S given minimal supervision. You’re
+                                to walk into a Post Office (USPS) and Walmart outlet in your area to carrying out your
+                                assignment as a normal customer would, not hinting at the fact that you’re a secret
+                                shopper/surveyor. Report back any mismanagement or customer-care attainment to make
+                                correction at any given period of time.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="single-about-box">
+                        <div class="about-box-img">
+                            <a href="#">
+                                <img src="assets/img/fedex.jpg" alt="about image" />
+                            </a>
+                        </div>
+                        <div class="about-box-text">
+
+                            <h5><strong style="color:black;">Survey Evaluation On FedEx Store.</strong></h5> <br />
+                            <p>
+                                FedEx Store outlet across the U.S given minimal supervision. You’re to walk into a FedEx
+                                Store in your area to carrying out your assignment as a normal customer would, not
+                                hinting at the fact that you’re a secret shopper/surveyor. Report back any mismanagement
+                                or customer-care attainment to make correction at any given period of time.​
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- About Area End -->
+
     <!-- Video Area Start -->
     <section class="jobguru-video-area section_100">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="video-container">
-                        <h2>Hire experts freelancers today for <br> any job, any time.</h2>
-                        <div class="video-btn">
-                            <a class="popup-youtube" href="https://www.youtube.com/watch?v=k-R6AFn9-ek">
-                                <i class="fa fa-play"></i>
-                                how it works
-                            </a>
-                        </div>
+                        <h2>Make Money Taking Survey on Fedex Stores across <br> United States of America.</h2>
+                        <a href="#" class="jobguru-btn-3">APPLY NOW</a>
                     </div>
                 </div>
             </div>
@@ -432,56 +511,6 @@
     <!-- Video Area End -->
 
 
-    <!-- How Works Area Start -->
-    <section class="how-works-area section_70">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="site-heading">
-                        <h2>how it <span>works</span></h2>
-                        <p>It's easy. Simply post a job you need completed and receive competitive bids from freelancers
-                            within minutes</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="how-works-box box-1">
-                        <img src="assets/img/arrow-right-top.png" alt="works" />
-                        <div class="works-box-icon">
-                            <i class="fa fa-user"></i>
-                        </div>
-                        <div class="works-box-text">
-                            <p>sign up</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="how-works-box box-2">
-                        <img src="assets/img/arrow-right-bottom.png" alt="works" />
-                        <div class="works-box-icon">
-                            <i class="fa fa-gavel"></i>
-                        </div>
-                        <div class="works-box-text">
-                            <p>post job</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="how-works-box box-3">
-                        <div class="works-box-icon">
-                            <i class="fa fa-thumbs-up"></i>
-                        </div>
-                        <div class="works-box-text">
-                            <p>choose expert</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- How Works Area End -->
-
 
     <!-- Blog Area Start -->
     <section class="jobguru-blog-area section_70">
@@ -489,51 +518,106 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="site-heading">
-                        <h2>Recent From <span>Blog</span></h2>
-                        <p>It's easy. Simply post a job you need completed and receive competitive bids from freelancers
-                            within minutes</p>
+                        <h2>APPLY <span>NOW</span></h2>
+                        <p>We're Hiring</p>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-12">
-                    <a href="#">
-                        <div class="single-blog">
-                            <div class="blog-image">
-                                <img src="assets/img/blog-1.jpeg" alt="blog image" />
-                                <p><span> 21</span> July</p>
+                <div class="col-md-10 offset-md-1">
+
+                    <form>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text" placeholder="First Name">
+                                </div>
                             </div>
-                            <div class="blog-text">
-                                <h3>If you're having trouble coming up with</h3>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-md-12">
-                    <a href="#">
-                        <div class="single-blog">
-                            <div class="blog-image">
-                                <img src="assets/img/blog-2.jpeg" alt="blog image" />
-                                <p><span> 21</span> July</p>
-                            </div>
-                            <div class="blog-text">
-                                <h3>details about Apple’s new iPad Pro models</h3>
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text" placeholder="Last Name">
+                                </div>
                             </div>
                         </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-md-12">
-                    <a href="#">
-                        <div class="single-blog">
-                            <div class="blog-image">
-                                <img src="assets/img/blog-3.jpeg" alt="blog image" />
-                                <p><span> 21</span> July</p>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text" placeholder="Address/Appartment/Suite">
+                                </div>
                             </div>
-                            <div class="blog-text">
-                                <h3>what are those Steps to be a Successful developer</h3>
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text" placeholder="City">
+                                </div>
                             </div>
                         </div>
-                    </a>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text" placeholder="State">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text" placeholder="Zip Code">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="email" placeholder="Email Address">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text" placeholder="Phone Number">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text" placeholder="Occupation">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="number" placeholder="Age">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text" placeholder="Phone Carrier">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <!-- <div class="single-contact-field"> -->
+                                <select class="form-control">
+                                    <option value="null">Have you worked as a survey officer?</option>
+                                    <option value="Yes">Yes</option>
+                                    <option value="No">No</option>
+                                </select>
+                                <!-- </div> -->
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="single-contact-field">
+                                    <button type="submit"><i class="fa fa-paper-plane"></i> APPLY NOW</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
@@ -544,69 +628,61 @@
     <section class="jobguru-contact-page-area section_70">
         <div class="container">
             <div class="row">
-                <div class="col-md-5">
-                    <div class="contact-left">
-                        <h3>Contact information</h3>
-                        <div class="contact-details">
-                            <p><i class="fa fa-map-marker"></i> Suite F-2 Manhattan, New York 10282 </p>
-                            <div class="single-contact-btn">
-                                <h4>Email Us</h4>
-                                <a href="#" class="jobguru-btn-2">support@jobguru.com</a>
+                <div class="col-md-12">
+                    <div class="site-heading">
+                        <h2>CONTACT <span>US</span></h2>
+                        <p>Lets hear from you</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="sigle-top-job">
+                        <div class="top-job-company-image">
+                            <div class="company-logo-img">
+                                <a href="#">
+                                    <img src="assets/img/company-logo-2.png" alt="company image" />
+                                </a>
                             </div>
-                            <div class="single-contact-btn">
-                                <h4>Call Us</h4>
-                                <a href="#" class="jobguru-btn-2">+(09)-2134-76894-9</a>
-                            </div>
-                            <div class="social-links-contact">
-                                <h4>Follow Us:</h4>
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                            </div>
+                            <h3><a href="#">ADDRESS</a></h3>
+                        </div>
+                        <div class="top-job-company-desc">
+                            <p>36 W Colorado Blvd
+                                STE 200 Pasadena CA 91105-3780
+                                United States</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-7">
-                    <div class="contact-right">
-                        <h3>Feel free to contact us!</h3>
-                        <form>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="single-contact-field">
-                                        <input type="text" placeholder="Your Name">
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="single-contact-field">
-                                        <input type="email" placeholder="Email Address">
-                                    </div>
-                                </div>
+
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="sigle-top-job">
+                        <div class="top-job-company-image">
+                            <div class="company-logo-img">
+                                <a href="#">
+                                    <img src="assets/img/company-logo-2.png" alt="company image" />
+                                </a>
                             </div>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="single-contact-field">
-                                        <input type="text" placeholder="Subject">
-                                    </div>
-                                </div>
+                            <h3><a href="#">PHONE NUMBER</a></h3>
+                        </div>
+                        <div class="top-job-company-desc">
+                            <p>+1 180-546-7466</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="sigle-top-job">
+                        <div class="top-job-company-image">
+                            <div class="company-logo-img">
+                                <a href="#">
+                                    <img src="assets/img/company-logo-2.png" alt="company image" />
+                                </a>
                             </div>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="single-contact-field">
-                                        <textarea placeholder="Write here your message"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="single-contact-field">
-                                        <button type="submit"><i class="fa fa-paper-plane"></i> Send Message</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
+                            <h3><a href="#">EMAIL</a></h3>
+                        </div>
+                        <div class="top-job-company-desc">
+                            <p>info@spesurvey.com</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -626,8 +702,9 @@
                                     <img src="assets/img/logo.png" alt="jobguru logo" />
                                 </a>
                             </div>
-                            <p>Aliquip exa consequat dui aut repahend vouptate elit cilum fugiat pariatur lorem dolor
-                                cit amet consecter adipisic elit sea vena eiusmod nulla</p>
+                            <p>We are selected company to work for companies convenience and promote all services
+                                rendered for the proper usage of the populace and create more security measure through
+                                the survey evaluation exercise.</p>
                             <ul class="footer-social">
                                 <li><a href="#" class="fb"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
@@ -637,52 +714,36 @@
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6">
                         <div class="single-footer-widget">
-                            <h3>recent post</h3>
-                            <div class="latest-post-footer clearfix">
-                                <div class="latest-post-footer-left">
-                                    <img src="assets/img/footer-post-2.jpg" alt="post" />
-                                </div>
-                                <div class="latest-post-footer-right">
-                                    <h4><a href="#">Website design trends for 2018</a></h4>
-                                    <p>January 14 - 2018</p>
-                                </div>
-                            </div>
-                            <div class="latest-post-footer clearfix">
-                                <div class="latest-post-footer-left">
-                                    <img src="assets/img/footer-post-3.jpg" alt="post" />
-                                </div>
-                                <div class="latest-post-footer-right">
-                                    <h4><a href="#">UI experts and modern designs</a></h4>
-                                    <p>January 12 - 2018</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single-footer-widget">
-                            <h3>main links</h3>
+                            <h3>USEFUL LINKS</h3>
                             <ul>
-                                <li><a href="#"><i class="fa fa-angle-double-right "></i> About jobguru</a></li>
-                                <li><a href="#"><i class="fa fa-angle-double-right "></i> Delivery Information</a></li>
-                                <li><a href="#"><i class="fa fa-angle-double-right "></i> Terms & Conditions</a></li>
-                                <li><a href="#"><i class="fa fa-angle-double-right "></i> Customer support</a></li>
-                                <li><a href="#"><i class="fa fa-angle-double-right "></i> Contact with an expert</a>
+                                <li><a href="#"><i class="fa fa-angle-double-right "></i> Home</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right "></i> About Us</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right "></i> Service Tips</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right "></i> Job Description</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right "></i> Testimonies</a>
                                 </li>
-                                <li><a href="#"><i class="fa fa-angle-double-right "></i> community updates</a></li>
-                                <li><a href="#"><i class="fa fa-angle-double-right "></i> upcoming updates</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="single-footer-widget footer-contact">
-                            <h3>Contact Info</h3>
-                            <p><i class="fa fa-map-marker"></i> 4257 Street, SunnyVale, USA </p>
-                            <p><i class="fa fa-phone"></i> 012-3456-789</p>
-                            <p><i class="fa fa-envelope-o"></i> info@jobguru.com</p>
-                            <p><i class="fa fa-envelope-o"></i> info@jobguru.com</p>
-                            <p><i class="fa fa-fax"></i> 112-3456-7898</p>
+                            <h3>CONTACT US</h3>
+                            <p><i class="fa fa-map-marker"></i> 36 W Colorado Blvd, STE 200 Pasadena CA 91105-3780,
+                                United States </p>
+                            <p><i class="fa fa-phone"></i> +1 951-299-9918</p>
+                            <p><i class="fa fa-envelope-o"></i> info@spesurvey.com</p>
+
+                            <!-- <p><i class="fa fa-fax"></i> 112-3456-7898</p> -->
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="single-footer-widget">
+                            <h3> OUR NEWSLETTER</h3>
+
                         </div>
                     </div>
                 </div>
