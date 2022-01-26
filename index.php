@@ -74,16 +74,16 @@
                                         <a href="#about">ABOUT US</a>
                                     </li>
                                     <li class="">
-                                        <a href="#">SERVICE TIPS </a>
+                                        <a href="#tips">SERVICE TIPS </a>
                                     </li>
                                     <li class="">
-                                        <a href="#">JOB DESCRIPTION</a>
+                                        <a href="#description">JOB DESCRIPTION</a>
                                     </li>
                                     <li class="">
-                                        <a href="#">TESTIMONIES</a>
+                                        <a href="">TESTIMONIES</a>
                                     </li>
                                     <li class="">
-                                        <a href="#">CONTACT US</a>
+                                        <a href="#contact">CONTACT US</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -125,7 +125,7 @@
                             <!-- <h4>We have 1542 job offers for you! </h4> -->
 
                             <div class="col-md-2 offset-md-5" style="margin-top:20px;">
-                                <a href="#" class="post-jobs" style="color:white;">GET HIRED</a>
+                                <a href="#apply" class="post-jobs" style="color:white;">GET HIRED</a>
                             </div>
                         </div>
                     </div>
@@ -146,9 +146,6 @@
                         <p>We are selected company to work for companies convenience and promote all services rendered
                             for the proper usage of the populace and create more security measure through the survey
                             evaluation exercise.
-                        </p>
-
-                        <p>
                             SPE® Survey is currently in contract with Companies to carry-out a survey in other to
                             evaluate all workers and services rendered at these listed companies etc ( Post Office ), (
                             Bank Mobile App / ATM Machine ), and ( FedEx Store ) respectively.. Applications for
@@ -244,182 +241,8 @@
     </section>
     <!-- About Area End -->
 
-
-    <!-- Inner Hire Area Start -->
-    <section class="jobguru-inner-hire-area section_100">
-        <div class="hire_circle"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="inner-hire-left">
-                        <h3>AFTERMATH</h3>
-                        <p>Below are the list of things to take note after the completion of the Purchase which you'll
-                            be instructed:</p>
-                        <ul style="color:white; margin-top: 20px;">
-                            <li>How long it took you to complete the Purchase?</li>
-                            <li>How effective the cashier/ Teller that attended to you?</li>
-                            <li>Customer Service Efficiency</li>
-                            <li>General recommendation/suggestion.</li>
-                        </ul>
-
-                        <p style="margin-top: 20px;">All these are the survey you're to take-note.</p>
-
-
-                        <div class="col-md-6">
-                            <a href="#" style="background:white;color:black;" class="jobguru-btn-3">APPLY HERE</a>
-                            <!-- <a href="#" class="post-jobs" style="background:white;color:black;">GET HIRED</a> -->
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Inner Hire Area End -->
-
-
-    <!-- Job Tab Area Start -->
-    <section class="jobguru-job-tab-area section_70">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="site-heading">
-                        <h2>Companies & <span>job offers</span></h2>
-                        <p>It's easy. Simply post a job you need completed and receive competitive bids from freelancers
-                            within minutes</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class=" job-tab">
-                        <ul class="nav nav-pills job-tab-switch" id="pills-tab" role="tablist">
-                            <li class="nav-item">
-                                <a class="nav-link active" id="pills-companies-tab" data-toggle="pill"
-                                    href="#pills-companies" role="tab" aria-controls="pills-companies"
-                                    aria-selected="true">top Companies</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="pills-job-tab" data-toggle="pill" href="#pills-job" role="tab"
-                                    aria-controls="pills-job" aria-selected="false">job openning</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="tab-content" id="pills-tabContent">
-                        <div class="tab-pane fade show active" id="pills-companies" role="tabpanel"
-                            aria-labelledby="pills-companies-tab">
-                            <div class="top-company-tab">
-
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="pills-job" role="tabpanel" aria-labelledby="pills-job-tab">
-                            <div class="top-company-tab">
-                                <ul>
-                                    <li>
-                                        <div class="top-company-list">
-                                            <div class="company-list-logo">
-                                                <a href="#">
-                                                    <img src="assets/img/company-logo-1.png" alt="company list 1" />
-                                                </a>
-                                            </div>
-                                            <div class="company-list-details">
-                                                <h3><a href="#">Regional Sales Manager</a></h3>
-                                                <p class="company-state"><i class="fa fa-map-marker"></i> Chicago,
-                                                    Michigan</p>
-                                                <p class="open-icon"><i class="fa fa-clock-o"></i>2 minutes ago</p>
-                                                <p class="varify"><i class="fa fa-check"></i>Fixed price : $1200-$2000
-                                                </p>
-                                                <p class="rating-company">4.1</p>
-                                            </div>
-                                            <div class="company-list-btn">
-                                                <a href="#" class="jobguru-btn">bid now</a>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="top-company-list">
-                                            <div class="company-list-logo">
-                                                <a href="#">
-                                                    <img src="assets/img/company-logo-4.png" alt="company list 1" />
-                                                </a>
-                                            </div>
-                                            <div class="company-list-details">
-                                                <h3><a href="#">C Developer (Senior) C .Net</a></h3>
-                                                <p class="company-state"><i class="fa fa-map-marker"></i> Chicago,
-                                                    Michigan</p>
-                                                <p class="open-icon"><i class="fa fa-clock-o"></i>2 minutes ago</p>
-                                                <p class="varify"><i class="fa fa-check"></i>Fixed price : $800-$1200
-                                                </p>
-                                                <p class="rating-company">3.1</p>
-                                            </div>
-                                            <div class="company-list-btn">
-                                                <a href="#" class="jobguru-btn">bid now</a>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="top-company-list">
-                                            <div class="company-list-logo">
-                                                <a href="#">
-                                                    <img src="assets/img/company-logo-3.png" alt="company list 1" />
-                                                </a>
-                                            </div>
-                                            <div class="company-list-details">
-                                                <h3><a href="#">Asst. Teacher</a></h3>
-                                                <p class="company-state"><i class="fa fa-map-marker"></i> Chicago,
-                                                    Michigan</p>
-                                                <p class="open-icon"><i class="fa fa-clock-o"></i>3 minutes ago</p>
-                                                <p class="varify"><i class="fa fa-check"></i>Fixed price : $800-$1200
-                                                </p>
-                                                <p class="rating-company">4.3</p>
-                                            </div>
-                                            <div class="company-list-btn">
-                                                <a href="#" class="jobguru-btn">bid now</a>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="top-company-list">
-                                            <div class="company-list-logo">
-                                                <a href="#">
-                                                    <img src="assets/img/company-logo-2.png" alt="company list 1" />
-                                                </a>
-                                            </div>
-                                            <div class="company-list-details">
-                                                <h3><a href="#">civil engineer</a></h3>
-                                                <p class="company-state"><i class="fa fa-map-marker"></i> Chicago,
-                                                    Michigan</p>
-                                                <p class="open-icon"><i class="fa fa-clock-o"></i>30 minutes ago</p>
-                                                <p class="varify"><i class="fa fa-check"></i>Fixed price : $2000-$2500
-                                                </p>
-                                                <p class="rating-company">3.7</p>
-                                            </div>
-                                            <div class="company-list-btn">
-                                                <a href="#" class="jobguru-btn">bid now</a>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="load-more">
-                        <a href="#" class="jobguru-btn">browse more listing</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Job Tab Area End -->
-
-
-
-    <!-- About Area Start -->
-    <section class="jobguru-about-page section_70">
+<!-- Service Tips Start -->
+<section class="jobguru-about-page section_70" id="tips">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -494,6 +317,155 @@
         </div>
     </section>
     <!-- About Area End -->
+    <!-- Job Description -->
+    <section class="jobguru-inner-hire-area section_100" id="description">
+        <div class="hire_circle"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="inner-hire-left">
+                        <h3>AFTERMATH</h3>
+                        <p>Below are the list of things to take note after the completion of the Purchase which you'll
+                            be instructed:</p>
+                        <ul style="color:white; margin-top: 20px;">
+                            <li>How long it took you to complete the Purchase?</li>
+                            <li>How effective the cashier/ Teller that attended to you?</li>
+                            <li>Customer Service Efficiency</li>
+                            <li>General recommendation/suggestion.</li>
+                        </ul>
+
+                        <p style="margin-top: 20px;">All these are the survey you're to take-note.</p>
+
+
+                        <div class="col-md-6">
+                            <a href="#" style="background:white;color:black;" class="jobguru-btn-3">APPLY HERE</a>
+                            <!-- <a href="#" class="post-jobs" style="background:white;color:black;">GET HIRED</a> -->
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Job Description End -->
+
+
+    <!-- Testimony -->
+    <section class="jobguru-happy-freelancer-area section_70">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="site-heading">
+                     <h2>from happy <span>freelancer</span></h2>
+                     <p>A better career is out there. We'll help you find it. We're your first step to becoming everything you want to be.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="happy-freelancer-slider owl-carousel owl-loaded owl-drag">
+                     
+                     
+                     
+                     
+                  <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1775px, 0px, 0px); transition: all 1.2s ease 0s; width: 2840px;"><div class="owl-item cloned" style="width: 335px; margin-right: 20px;"><div class="single-happy-freelancer">
+                        <div class="happy-freelancer-img">
+                           <img src="assets/img/testimonial-3.jpg" alt="testimonial 1">
+                        </div>
+                        <div class="happy-freelancer-text">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie, justo nec convallis sollicitudin, sapien lorem dictum lacus, non consequat odio ipsum nec est.</p>
+                           <div class="happy-freelancer-info">
+                              <h4> asif haider</h4>
+                              <p>web designer</p>
+                           </div>
+                        </div>
+                     </div></div><div class="owl-item cloned" style="width: 335px; margin-right: 20px;"><div class="single-happy-freelancer">
+                        <div class="happy-freelancer-img">
+                           <img src="assets/img/testimonial-2.jpg" alt="testimonial 1">
+                        </div>
+                        <div class="happy-freelancer-text">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie, justo nec convallis sollicitudin, sapien lorem dictum lacus, non consequat odio ipsum nec est.</p>
+                           <div class="happy-freelancer-info">
+                              <h4>sandy Pitter</h4>
+                              <p>web designer</p>
+                           </div>
+                        </div>
+                     </div></div><div class="owl-item" style="width: 335px; margin-right: 20px;"><div class="single-happy-freelancer">
+                        <div class="happy-freelancer-img">
+                           <img src="assets/img/testimonial-1.jpg" alt="testimonial 1">
+                        </div>
+                        <div class="happy-freelancer-text">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie, justo nec convallis sollicitudin, sapien lorem dictum lacus, non consequat odio ipsum nec est.</p>
+                           <div class="happy-freelancer-info">
+                              <h4>jonathon doe</h4>
+                              <p>web designer</p>
+                           </div>
+                        </div>
+                     </div></div><div class="owl-item" style="width: 335px; margin-right: 20px;"><div class="single-happy-freelancer">
+                        <div class="happy-freelancer-img">
+                           <img src="assets/img/testimonial-2.jpg" alt="testimonial 1">
+                        </div>
+                        <div class="happy-freelancer-text">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie, justo nec convallis sollicitudin, sapien lorem dictum lacus, non consequat odio ipsum nec est.</p>
+                           <div class="happy-freelancer-info">
+                              <h4>sraboni neela</h4>
+                              <p>web designer</p>
+                           </div>
+                        </div>
+                     </div></div><div class="owl-item" style="width: 335px; margin-right: 20px;"><div class="single-happy-freelancer">
+                        <div class="happy-freelancer-img">
+                           <img src="assets/img/testimonial-3.jpg" alt="testimonial 1">
+                        </div>
+                        <div class="happy-freelancer-text">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie, justo nec convallis sollicitudin, sapien lorem dictum lacus, non consequat odio ipsum nec est.</p>
+                           <div class="happy-freelancer-info">
+                              <h4> asif haider</h4>
+                              <p>web designer</p>
+                           </div>
+                        </div>
+                     </div></div><div class="owl-item active" style="width: 335px; margin-right: 20px;"><div class="single-happy-freelancer">
+                        <div class="happy-freelancer-img">
+                           <img src="assets/img/testimonial-2.jpg" alt="testimonial 1">
+                        </div>
+                        <div class="happy-freelancer-text">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie, justo nec convallis sollicitudin, sapien lorem dictum lacus, non consequat odio ipsum nec est.</p>
+                           <div class="happy-freelancer-info">
+                              <h4>sandy Pitter</h4>
+                              <p>web designer</p>
+                           </div>
+                        </div>
+                     </div></div><div class="owl-item cloned active" style="width: 335px; margin-right: 20px;"><div class="single-happy-freelancer">
+                        <div class="happy-freelancer-img">
+                           <img src="assets/img/testimonial-1.jpg" alt="testimonial 1">
+                        </div>
+                        <div class="happy-freelancer-text">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie, justo nec convallis sollicitudin, sapien lorem dictum lacus, non consequat odio ipsum nec est.</p>
+                           <div class="happy-freelancer-info">
+                              <h4>jonathon doe</h4>
+                              <p>web designer</p>
+                           </div>
+                        </div>
+                     </div></div><div class="owl-item cloned" style="width: 335px; margin-right: 20px;"><div class="single-happy-freelancer">
+                        <div class="happy-freelancer-img">
+                           <img src="assets/img/testimonial-2.jpg" alt="testimonial 1">
+                        </div>
+                        <div class="happy-freelancer-text">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie, justo nec convallis sollicitudin, sapien lorem dictum lacus, non consequat odio ipsum nec est.</p>
+                           <div class="happy-freelancer-info">
+                              <h4>sraboni neela</h4>
+                              <p>web designer</p>
+                           </div>
+                        </div>
+                     </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
+               </div>
+            </div>
+         </div>
+      </section>
+    <!-- Testimony -->
+
+
+
+    
 
     <!-- Video Area Start -->
     <section class="jobguru-video-area section_100">
@@ -502,7 +474,7 @@
                 <div class="col-md-12">
                     <div class="video-container">
                         <h2>Make Money Taking Survey on Fedex Stores across <br> United States of America.</h2>
-                        <a href="#" class="jobguru-btn-3">APPLY NOW</a>
+                        <a href="#apply" class="jobguru-btn-3">APPLY NOW</a>
                     </div>
                 </div>
             </div>
@@ -512,8 +484,8 @@
 
 
 
-    <!-- Blog Area Start -->
-    <section class="jobguru-blog-area section_70">
+    <!-- Apply Form -->
+    <section class="jobguru-blog-area section_70" id= "apply">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -625,7 +597,7 @@
     <!-- Blog Area End -->
 
 
-    <section class="jobguru-contact-page-area section_70">
+    <section class="jobguru-contact-page-area section_70" id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -786,6 +758,9 @@
     <script src="assets/js/jquery-ui.min.js"></script>
     <!--Main js-->
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/jarallax-video.min.js"></script>
+    <script src="assets/js/jarallax-video.min.js"></script>
+    <script src="assets/js/jarallax-video.min.js"></script>
 </body>
 
 </html>
